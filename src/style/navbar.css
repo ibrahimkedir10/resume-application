@@ -1,0 +1,31 @@
+.nav-container {
+    background-color: #040404;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Arial", sans-serif;
+    font-weight: normal;
+   
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20px;
+    color: white;
+    cursor: pointer;
+    font-family: "Arial", sans-serif;
+    font-weight: normal;
+  }
+  
+  li:hover {
+    text-decoration: underline;
+  }
+  
